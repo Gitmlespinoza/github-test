@@ -52,4 +52,8 @@
 
   // reverse sort
 
+  $frutas = array("mango", "fresa", "naranja");
+  rsort($frutas);
+  print_r($frutas)
+
   ?>
